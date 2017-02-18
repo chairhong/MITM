@@ -1,12 +1,15 @@
 ARP MITM attack with scapy
 ===========================
-# OS
+## OS
  Ubuntu 16.04 64bit
 
-# Scapy Version
+## Scapy Version
  Scapy 2.2.0
+ ```
+ $sudo apt-get install python-scapy
+ ```
 
-# Language
+## Language
  Python 2.7.12
 
 ---------------------------
